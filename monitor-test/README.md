@@ -53,7 +53,7 @@ pn5.reporting.prometheus.labels="environment=ppe,type=end-to-end"
 ## 5. Run test
 ```
 $npx playwright test
-[2025-02-05 14:09:43.147 +0700] DEBUG: [PumpoEvents] Loading configuration file from resolved config path /Users/somkiatpuisungnoen/data/slide/automated-testing/workshop-playwright-2025/monitor-test/config.conf
+[2025-02-05 14:09:43.147 +0700] DEBUG: [PumpoEvents] Loading configuration file from resolved config path /workshop-playwright-2025/monitor-test/config.conf
 [2025-02-05 14:09:43.147 +0700] INFO: Adding custom label: environment=ppe
 [2025-02-05 14:09:43.147 +0700] INFO: Adding custom label: type=end-to-end
 [2025-02-05 14:09:43.156 +0700] INFO: Starting the run with 2 tests.
